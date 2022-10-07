@@ -1,0 +1,3 @@
+This Page will contain images of Alligators as well as an information section about aligators.
+This page will feature a navigation bar at the top of the page allowing the user to return to the home
+page  on other pages on the virtual zoo website.
