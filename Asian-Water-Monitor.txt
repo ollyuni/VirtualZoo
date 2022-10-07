@@ -1,0 +1,8 @@
+This page is for the Asian Water Monitor. It will be connected to the other pages with a 
+navigation system.
+
+The main page will be split into two columns. This will allow for text to be displayed inline
+with an image or video.
+
+On opening the page a clip of an asian water monitor will begin playing on the left size of the
+page, on the right there will be a short, easy to read blurb about the Asian water monitor.
