@@ -1,0 +1,3 @@
+This page is the mainpage of the webpage, this webpage has links to all other animal webpages.
+
+The animal page should have some general facts about animals, and what animals you might see on the other pages.
