@@ -1,3 +1,7 @@
 This Page will feature informtaion about Penguins as well images of Penguins.
 The page will also feature a navigation bar at the top of the page allowing the user to return to the home
 page and go to other pages on the virtual zoo website.
+
+Sample Info:
+
+"The Emperor Penguin is the tallest of all penguin species, reaching as tall as 120 cm (47 in) in height."

@@ -1,3 +1,9 @@
 This Page will contain images of Alligators as well as an information section about aligators.
 This page will feature a navigation bar at the top of the page allowing the user to return to the home
 page  on other pages on the virtual zoo website.
+
+Sample Info:
+
+"An average adult American alligator's weight and length is 360 kg (790 lb) and 4 m (13 ft), but they sometimes grow to 4.4 m (14 ft) long and weigh over 450 kg (990 lb)."
+
+"The easiest way to distinguish crocodiles from alligators is by looking at their jaw line. Only the upper teeth of an alligator are visible when its mouth is closed. Crocodiles however have visible upper and lower teeth when their mouths are closed."

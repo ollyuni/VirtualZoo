@@ -1,1 +1,5 @@
 This page will contain information about cats, pictures of cats and navigation features such as a search bar and buttons to take you to the other pages.
+
+Sample Info:
+
+"Out of all the Big Cats, Cheetah's are the only species which can chirp but cannot roar."
